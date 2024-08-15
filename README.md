@@ -1,29 +1,34 @@
 # Dasboard_Excel
 
-HR Analytics Dashboard
-Gambaran Umum
-Dashboard HR Analytics ini menyediakan tampilan menyeluruh dari metrik kunci HR, termasuk jumlah total karyawan, rata-rata gaji, rata-rata masa kerja, dan persentase kepuasan kerja. Dashboard ini memungkinkan tim HR dan manajemen untuk memantau dan menganalisis data karyawan secara efektif.
+# HR Analytics Dashboard
 
+Dashboard ini dibuat untuk menganalisis berbagai aspek terkait karyawan, termasuk jumlah karyawan, gaji rata-rata, masa kerja rata-rata, dan tingkat kepuasan kerja. Data ditampilkan dalam berbagai bentuk visualisasi yang memudahkan pemahaman dan pengambilan keputusan.
 
-Fitur Utama
-Total Karyawan: Menampilkan jumlah karyawan saat ini di organisasi.
-Rata-rata Gaji: Menunjukkan rata-rata gaji karyawan.
-Rata-rata Masa Kerja: Mengindikasikan rata-rata lama waktu karyawan bekerja di perusahaan.
-Persentase Kepuasan Kerja: Mencerminkan tingkat kepuasan kerja keseluruhan di organisasi.
-Karyawan per Bulan: Grafik garis yang melacak jumlah karyawan dari waktu ke waktu.
-Karyawan per Departemen: Grafik batang yang menggambarkan distribusi karyawan di berbagai departemen.
-Karyawan per Jabatan: Visualisasi peta treemap yang menunjukkan jumlah karyawan berdasarkan jabatan.
-Filter
-Dashboard ini dilengkapi dengan filter interaktif yang memungkinkan pengguna untuk:
+## Screenshot
+![HR Analytics Dashboard](Dasboard Excell.png)
 
-Memfilter data berdasarkan Tahun.
-Memfilter data berdasarkan Bulan.
-Memfilter data berdasarkan Jabatan.
-Alat dan Teknologi yang Digunakan
-Microsoft Excel: Dashboard ini dibuat menggunakan Microsoft Excel, memanfaatkan kemampuannya untuk visualisasi data dan analisis.
-Cara Menggunakan
-Buka file Excel yang berisi dashboard ini.
-Gunakan filter di sisi kiri untuk menyesuaikan tampilan data.
-Analisis visualisasi untuk mendapatkan wawasan tentang metrik HR.
-Tentang Proyek
-Proyek ini dikembangkan untuk memberikan tim HR alat yang mudah digunakan untuk memantau metrik HR kunci. Dashboard ini membantu dalam pengambilan keputusan berbasis data untuk meningkatkan kepuasan karyawan, retensi, dan efisiensi organisasi secara keseluruhan.
+## Fitur Utama
+- **Total Employees**: Menampilkan jumlah total karyawan.
+- **Average Salary**: Menunjukkan gaji rata-rata karyawan.
+- **Average Tenure**: Menampilkan rata-rata masa kerja karyawan.
+- **Job Satisfaction %**: Menampilkan persentase tingkat kepuasan kerja karyawan.
+- **Employees per Month**: Visualisasi jumlah karyawan per bulan.
+- **Employees per Department**: Grafik batang yang menunjukkan jumlah karyawan per departemen.
+- **Employees per Job Title**: Tree map yang menampilkan jumlah karyawan berdasarkan jabatan.
+
+## Teknologi yang Digunakan
+- **Microsoft Excel**: Dashboard ini dibuat menggunakan Excel, memanfaatkan fitur seperti pivot table, grafik, dan slicer untuk interaktivitas.
+
+## Cara Menggunakan
+1. **Filter**: Gunakan panel filter di sisi kiri atas untuk menyaring data berdasarkan tahun, bulan, dan jabatan.
+2. **Visualisasi**: Lihat hasil analisis pada berbagai grafik dan indikator yang tersedia.
+3. **Interaktivitas**: Klik pada elemen interaktif untuk memfilter data lebih lanjut.
+
+## Keterampilan yang Digunakan
+- Pembuatan dashboard interaktif menggunakan Microsoft Excel.
+- Analisis data karyawan.
+- Visualisasi data yang informatif dan mudah dipahami.
+
+## Tentang Proyek
+Proyek ini bertujuan untuk membantu HR dalam menganalisis data karyawan dan mengambil keputusan berbasis data. Dashboard ini dapat digunakan untuk memantau metrik karyawan secara real-time, memungkinkan pengambilan keputusan yang lebih cepat dan tepat.
+

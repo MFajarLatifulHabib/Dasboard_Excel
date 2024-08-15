@@ -5,7 +5,7 @@
 Dashboard ini dibuat untuk menganalisis berbagai aspek terkait karyawan, termasuk jumlah karyawan, gaji rata-rata, masa kerja rata-rata, dan tingkat kepuasan kerja. Data ditampilkan dalam berbagai bentuk visualisasi yang memudahkan pemahaman dan pengambilan keputusan.
 
 ## Screenshot
-![HR Analytics Dashboard](Dasboard Excell.png)
+![HR Analytics Dashboard](Dasboard_Excel/Dasboard Excell.png)
 
 ## Fitur Utama
 - **Total Employees**: Menampilkan jumlah total karyawan.
